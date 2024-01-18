@@ -1,1 +1,1 @@
-Welcome to my AirBnB clone -- CatBnB!
+Welcome to my AirBnB clone -- CatCnC!
